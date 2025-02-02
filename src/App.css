@@ -1,0 +1,10 @@
+.gradient-bg {
+  width: 100%;
+  height: 76vh;
+  background: linear-gradient(rgba(18, 18, 18, 1), rgba(33, 118, 185, 1));
+}
+
+.logo{
+  width: 200px;
+  height: 50px;
+}
